@@ -1,4 +1,6 @@
-# ICGfinal_watercolorization
+# ICGfinal_watercolorization style transfer
+
+水彩畫效果風格轉換。
 
 This repo basically implement :
 
