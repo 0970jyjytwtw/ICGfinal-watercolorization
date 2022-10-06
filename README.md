@@ -2,7 +2,7 @@
 
 水彩畫效果風格轉換。
 
-This repo basically implement :
+This repo basically implements :
 
 M. Wang *et al*., "Towards Photo Watercolorization with Artistic Verisimilitude," in *IEEE Transactions on Visualization and Computer Graphics*, vol. 20, no. 10, pp. 1451-1460, Oct. 2014, doi: 10.1109/TVCG.2014.2303984.
 
