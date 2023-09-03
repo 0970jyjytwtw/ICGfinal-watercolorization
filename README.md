@@ -1,4 +1,7 @@
 # ICGfinal_watercolorization style transfer
+| source | result |
+| :----: | :----: |
+|![圖片](src_image/didilong.jpg) |![圖片](output/didilong_res.jpg)|
 
 水彩畫效果風格轉換。
 
